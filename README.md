@@ -19,34 +19,46 @@
 
 ### Skills 
 #### Front-end 
-<img src="./assets/html5-plain-wordmark.svg" width="100px" />
-<img src="./assets/css3-plain-wordmark.svg" width="100px" />
-<img src="./assets/javascript-original.svg" width="100px" />
-<img src="./assets/typescript-plain.svg" width="100px" />
-<img src="./assets/react-original-wordmark.svg" width="100px" />
-<img src="./assets/nextjs-original-wordmark.svg" width="100px" />
-<img src="./assets/eslint-original-wordmark.svg" width="100px" />
-<img src="./assets/webpack-original-wordmark.svg" width="100px" />
+<div>
+  <img src="./assets/html5-plain-wordmark.svg" width="80px" />
+  <img src="./assets/css3-plain-wordmark.svg" width="80px" />
+  <img src="./assets/javascript-original.svg" width="80px" />
+  <img src="./assets/typescript-plain.svg" width="80px" />
+  <img src="./assets/react-original-wordmark.svg" width="80px" />
+  <img src="./assets/nextjs-original-wordmark.svg" width="80px" />
+  <img src="./assets/eslint-original-wordmark.svg" width="80px" />
+  <img src="./assets/webpack-original-wordmark.svg" width="80px" />
+</div>
 
 #### Backend
-<img src="./assets/nodejs-original-wordmark.svg" width="100px" />
-<img src="./assets/express-original-wordmark.svg" width="100px" />
-<img src="./assets/graphql-plain-wordmark.svg" width="100px" />
+<div>
+  <img src="./assets/nodejs-original-wordmark.svg" width="80px" />
+  <img src="./assets/express-original-wordmark.svg" width="80px" />
+  <img src="./assets/graphql-plain-wordmark.svg" width="80px" />
+</div>
 
 #### Database
-<img src="./assets/mongodb-original-wordmark.svg" width="100px" />
-<img src="./assets/mysql-plain-wordmark.svg" width="100px" />
+<div>
+  <img src="./assets/mongodb-original-wordmark.svg" width="80px" />
+  <img src="./assets/mysql-plain-wordmark.svg" width="80px" />
+</div
 
 #### Testing
-<img src="./assets/jest-plain.svg" width="100px" />
+<div>
+  <img src="./assets/jest-plain.svg" width="80px" />
+</div>
 
 #### Design
-<img src="./assets/figma-original.svg" width="100px" />
+<div>
+  <img src="./assets/figma-original.svg" width="80px" />
+</div
 
 #### Workspace
-<img src="./assets/linux-original.svg" width="100px" />
-<img src="./assets/ubuntu-plain-wordmark.svg" width="100px" />
-<img src="./assets/vscode-original-wordmark.svg" width="100px" />
+<div>
+  <img src="./assets/linux-original.svg" width="80px" />
+  <img src="./assets/ubuntu-plain-wordmark.svg" width="80px" />
+  <img src="./assets/vscode-original-wordmark.svg" width="80px" />
+</div>
 
 <hr />
 
