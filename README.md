@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there! Know a little bit of me 🙋🏾‍♂️</h1>
 
-  <h3>💻 Front-end Developer at <a href="https://github.com/rvesoftware">@rvesoftware</a></h3>
+  <h3>💻 Front-end Developer at <a href="https://github.com/nevobit">@nevobit</a></h3>
 
   <div>
     <a href="https://twitter.com/monoald">
