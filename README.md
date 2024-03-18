@@ -5,13 +5,16 @@
     <a href="https://twitter.com/monoald">
       <img src="./assets/twitter.svg" />
     </a>
+    <p></p>
     <a href="https://www.linkedin.com/in/carlos-s-aldazosa/">
       <img src="./assets/linkedin.svg" />
     </a>
+    <p></p>
+    <a href="https://www.linkedin.com/in/carlos-s-aldazosa/">
+      <img src="./assets/monoald.svg" />
+    </a>
   </div>
 </div>
-
-<hr />
 
 <div align="center">
   <h2>Proficiency in</h2>
@@ -27,8 +30,6 @@
   <img src="https://img.shields.io/badge/jest%20-%23C21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/react_testing_library%20-%23E33332.svg?&style=for-the-badge&logo=testing-library&logoColor=white" />
 </div>
-
-<hr />
 
 <div align="center">
   <h2>Most used</h2>
