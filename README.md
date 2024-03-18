@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <h2>Proficiency in</h2>
+  <h2>Proficient in</h2>
   <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
@@ -29,10 +29,9 @@
   <img src="https://img.shields.io/badge/mysql%20-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/jest%20-%23C21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/react_testing_library%20-%23E33332.svg?&style=for-the-badge&logo=testing-library&logoColor=white" />
-</div>
 
-<div align="center">
-  <h2>Most used</h2>
+  <p></p>
+
   <p>
       <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=monoald&show_icons=true&locale=en&layout=compact&theme=radical"/>
   </p>
