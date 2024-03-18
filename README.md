@@ -1,19 +1,19 @@
 <div align="center">
   <h2>Software Developer | Web Developer</h2>
 
-  <div>
+   <p>
     <a href="https://twitter.com/monoald">
       <img src="./assets/twitter.svg" />
     </a>
-    <p></p>
+    &nbsp; &nbsp; &nbsp;
     <a href="https://www.linkedin.com/in/carlos-s-aldazosa/">
       <img src="./assets/linkedin.svg" />
     </a>
-    <p></p>
+    &nbsp; &nbsp; &nbsp;
     <a href="https://www.linkedin.com/in/carlos-s-aldazosa/">
       <img src="./assets/monoald.svg" />
     </a>
-  </div>
+  </p>
 </div>
 
 <div align="center">
